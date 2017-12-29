@@ -63,9 +63,9 @@ Checklist:
 Stretch Goals:
 ---
 
-- run GET $ajax call on page load
-- create a counter in server.js that counts how many times the get route has been called and show in terminal with console.log
-- return an object from the server that has the number of times the route has been called
+-! run GET $ajax call on page load
+-! create a counter in server.js that counts how many times the get route has been called and show in terminal with console.log
+-! return an object from the server that has the number of times the route has been called
 - display that number on the DOM
 - create a POST route
 - create another button on the page that makes a request to the POST route and sends an object literal
